@@ -1,0 +1,14 @@
+names:
+- Bio
+- Rov
+- Trash
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: utd2-hyo53
+  url: https://universe.roboflow.com/utd-0dazj/utd2-hyo53/dataset/7
+  version: 7
+  workspace: utd-0dazj
+test: ../test/images
+train: ../train/images
+val: ../valid/images
