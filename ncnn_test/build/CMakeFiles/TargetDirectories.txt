@@ -1,0 +1,3 @@
+/Users/mfpet/Documents/github/MRSS2025_Team1_TrashBot/ncnn_test/build/CMakeFiles/demo.dir
+/Users/mfpet/Documents/github/MRSS2025_Team1_TrashBot/ncnn_test/build/CMakeFiles/edit_cache.dir
+/Users/mfpet/Documents/github/MRSS2025_Team1_TrashBot/ncnn_test/build/CMakeFiles/rebuild_cache.dir
