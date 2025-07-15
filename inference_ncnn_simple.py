@@ -72,8 +72,8 @@ def run_random_inference():
     global model, ax
     
     # Load the trained model once
-    model_path = "models/yolov11n_trash_detection/weights/best_ncnn_opt_model"
-    # model_path = "models/yolov11n_trash_detection/weights/best_ncnn_model"
+    # model_path = "models/yolov11n_trash_detection/weights/best_ncnn_opt_model"
+    model_path = "models/yolov11n_trash_detection/weights/best_ncnn_model"
     model = YOLO(model_path)
     print("Model loaded successfully!")
     
